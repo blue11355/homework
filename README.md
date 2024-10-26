@@ -11,6 +11,7 @@
 | F | G | H | A | B | C | D | E |
 | G | H | A | B | C | D | E | F |
 | H | A | B | C | D | E | F | G |
+
 横着为密文，竖着为密钥，对应密钥，密文的交点即为明文，密钥以轮转的方式对应密文直至全部对应，比如密码ABCD，密钥EFG，明文就是EGAH,同理，NEX题凯撒超进化答案为
 nex{vlg3nerE_l5_50_E45Y_hahAhahaH4}
 
